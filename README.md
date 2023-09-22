@@ -1,3 +1,3 @@
 # Dasar Pemograman - Jobsheet4
 
-Hello Github, ini adalah repository pertama saya.
+TUGAS PRAKTIKUM DASPRO JOBSHEET 4 MY BABBY FINDIA RUDY SUSANTO (21)
